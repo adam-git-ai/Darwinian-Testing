@@ -1,5 +1,5 @@
 # Darwinian-Testing
-A genetic algorithm for generating test cases to test software and embedded systems
+A genetic algorithm written in Python for generating test cases to test software and embedded systems
 
 # Summary
 
